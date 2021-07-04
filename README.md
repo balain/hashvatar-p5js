@@ -7,7 +7,7 @@
 * Francois Best's hashvatars: https://francoisbest.com/posts/2021/hashvatars
   * License: https://github.com/franky47/francoisbest.com/blob/next/LICENSE.txt
 * Includes `sha256` function copied from https://geraintluff.github.io/sha256/
-  * No license given
+  * Public domain: https://github.com/geraintluff/sha256/blob/gh-pages/README.md
 
 This is a work in progress...
 
